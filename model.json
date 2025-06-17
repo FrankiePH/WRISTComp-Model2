@@ -1,0 +1,1 @@
+{"version": "1.0", "name": "WRISTComp-Model2", "description": "<p>model 2</p>", "component_sets": [], "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implamentationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
